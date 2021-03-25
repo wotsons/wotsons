@@ -1,6 +1,6 @@
 <img align="right" width="400" height="300" src="http://3.bp.blogspot.com/-TBnXkNDxTgg/U2rvQ0uGzQI/AAAAAAAAFZc/It6otshGw5w/s1600/Naruto+1.gif">
 
-##  Hi there 👋
+#  Hi there 👋
 
 I'm **Wotson Sula**, and I'm Technologist in training in the area of Systems Analysis and Development at IFPB - Cajazeiras.
 
