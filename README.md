@@ -1,20 +1,29 @@
-#  Hi there 👋
 
-I'm **Wotson Sula**, and I'm Technologist in training in the area of Systems Analysis and Development at IFPB - Cajazeiras.
+## Oi! Eu sou Wotson 
+ <div>
+  <a href="https://github.com/wotsons">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wotsons&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotsons&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Wotson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wotson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wotson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wotson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wotson-C" height="30" width="40"src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg'>
+  <img align="center" alt="Wotson-C" height="30" width="40"src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
+  <img align="center" alt="Wotson-C" height="30" width="40"src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+</div>
+  
+  ##
+ 
+<div> 
 
-Here I will post some activities or projects that I am developing.
-
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wotson-sula-96836210b/)](https://www.linkedin.com/in/wotson-sula-96836210b/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583999144146&text=Hello!)](https://api.whatsapp.com/send?phone=5583999144146text=Hello!)
-
-## ⚡ Technologies
-
-These are some of the technologies and tools that I work with:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  <a href="https://instagram.com/uots.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:wotsonbsf@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wotson-sula-96836210b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/wotsons/wotsons/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
